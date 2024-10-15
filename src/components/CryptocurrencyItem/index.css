@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+.crypto-currency-list-item {
+  display: flex;
+  width: 700px;
+  align-items: center;
+  justify-content: space-around;
+  color: #ffffff;
+}
+
+.currency-logo {
+  height: 20px;
+  width: 20px;
+}

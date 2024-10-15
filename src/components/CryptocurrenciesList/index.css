@@ -1,0 +1,51 @@
+/* Write your CSS code here */
+.crypto-currency-heading {
+  color: #00e7ff;
+  text-align: center;
+}
+
+cryptocurrency-list-container {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* justify-content: center; */
+}
+
+.cryptocurrency-img {
+  width: 400px;
+  margin-bottom: 10px;
+}
+
+.cryptocurrency-list-items-container {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10px;
+  border: solid 2px #00e7ff;
+  width: 100%;
+}
+
+.cryptocurrency-heading-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 100%;
+  color: #ffffff;
+  background-color: #092e33;
+  padding-right: 5px;
+  padding-left: 5px;
+}
+
+.list-items-heading {
+  margin-left: 10px;
+}
+
+.cryptocurrency-items-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  list-style: none;
+}
